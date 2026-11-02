@@ -32,7 +32,6 @@ require("L5")
 function setup()
   size(500, 500)
   windowTitle("Project 2")
-  --save(project2.png)
 end
 
 function draw()
@@ -74,5 +73,7 @@ function mousePressed()
   for lineX = 75, 500, 75 do
     line(lineX, 0, lineX, height)
   end --end the vertical lines
+
+  save('project2.png')
 
 end
