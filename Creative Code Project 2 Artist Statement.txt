@@ -1,0 +1,4 @@
+Creative Code Unit 2 Project 2 Artist Statement
+Elizaveta Beahn
+
+For project 2, which is focused on randomization and pattern, I was inspired by textile patterns like quilting and flannel. Both of these are something I see pretty often and recognize that even though they are usually built from the same square tile pattern, there are infinite possibilities in what they look like. Specifically, color is used in repeating patterns. On flannel, there is a grid type pattern. This is my base- the pattern that stays constant is the 5x100px grid horizontally and vertically. The color and opacity of these rectangles changes. I used the 3 colors from the risograph palette. By allowing the opacity to be chosen randomly from a set parameter, many colors emerge on the grid where colored rectangles overlap. I added in vertical lines as an extra detail to create more visual interest. Only the opacity changes for those lines.	
